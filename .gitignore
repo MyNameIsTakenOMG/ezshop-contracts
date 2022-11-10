@@ -1,0 +1,14 @@
+# hardhat
+artifacts/
+cache/
+deployments/
+node_modules/
+coverage/
+coverage.json
+
+# environments and node modules
+.env
+node_modules/
+
+
+constants.json

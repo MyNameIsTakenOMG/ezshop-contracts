@@ -1,0 +1,12 @@
+node_modules
+.gitignore
+package.json
+README.md
+img
+artifacts
+cache
+coverage
+coverage.json
+.env
+.*
+deployments/
